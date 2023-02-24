@@ -1,4 +1,4 @@
-Remake of stock app.
+Remake of tsock app.
 
 The general usage of the tsock application is as follows:
 
